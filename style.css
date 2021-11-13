@@ -1,0 +1,41 @@
+/*
+//Holden Davis
+//CSCI 3381 - CRN 18741
+//Project 3 - Dr. Doderer - Fall 2021 
+*/
+
+@charset "ISO-8859-1";
+
+html
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color:rgb(29, 161, 242);
+}
+
+body
+{
+	font-size: 200%;
+}
+
+input[type=text]
+{
+	width: 20%;
+}
+input[type=password]
+{
+	width: 20%
+}
+input[type=button]
+{
+	width: 10%;
+}
+input[type=submit]
+{
+	width: 10%;
+}
+select
+{
+	width: 30%;
+}
