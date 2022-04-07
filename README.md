@@ -1,6 +1,4 @@
-
-
-Project 3 - CSCI 3381 - CRN 18741 - Fall 2021 - Holden Davis - Dr. Doderer
+# Project 3 for CSCI 3381 - Object Oriented Software Development with Java
 
 Entire project was compiled using the provided version of eclipse, photon.
 
